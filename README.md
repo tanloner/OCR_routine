@@ -13,9 +13,6 @@ You need to have Python installed on your machine. You can download it from the 
 ### Installing
 
 1. Navigate to the project directory
-```bash
-cd Jojo_OCR
-```
 2. Install the required packages
 ```bash
 pip install -r requirements.txt
